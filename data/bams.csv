@@ -1,0 +1,5 @@
+condition,rep1,rep2,rep3
+6_days_mock,results_SL_3.0/hisat2/SRR12998935.sorted.bam,results_SL_3.0/hisat2/SRR12998936.sorted.bam,results_SL_3.0/hisat2/SRR12998937.sorted.bam
+6_days_inf,results_SL_3.0/hisat2/SRR12998938.sorted.bam,results_SL_3.0/hisat2/SRR12998939.sorted.bam,results_SL_3.0/hisat2/SRR12998940.sorted.bam
+12_days_mock,results_SL_3.0/hisat2/SRR12998941.sorted.bam,results_SL_3.0/hisat2/SRR12998942.sorted.bam,results_SL_3.0/hisat2/SRR12998943.sorted.bam
+12_days_inf,results_SL_3.0/hisat2/SRR12998944.sorted.bam,results_SL_3.0/hisat2/SRR12998945.sorted.bam,results_SL_3.0/hisat2/SRR12998946.sorted.bam
